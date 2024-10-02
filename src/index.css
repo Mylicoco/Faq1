@@ -10,12 +10,15 @@
 }
 .h1 {
   font-size: 36px;
+  font-weight: 600;
 }
-.hading2 {
+.heading2 {
   font-size: 24px;
+   font-weight: 600;
 }
-p ol ul {
+p,ol,ul {
   font-size: 16px;
+   font-weight: 400;
 }
 body {
   width: 100%;
